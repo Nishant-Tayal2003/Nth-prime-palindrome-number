@@ -20,4 +20,4 @@ while b != nth:
       b = b + 1
       l = num
   num=num+1
-print(f"The {nth} prime palindrome number is {l}.")
+print(f"The {nth}th prime palindrome number is {l}.")
