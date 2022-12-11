@@ -1,4 +1,4 @@
-nth=int(input())
+nth=int(input("Enter the nth number:-"))
 b=0 
 l=0
 num = 1
@@ -20,4 +20,4 @@ while b != nth:
       b = b + 1
       l = num
   num=num+1
-print(l)
+print(f"The {nth} prime palindrome number is {l}.")
